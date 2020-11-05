@@ -1,0 +1,3 @@
+[submodule "srgan"]
+	path = srgan
+	url = https://github.com/tensorlayer/srgan.git
